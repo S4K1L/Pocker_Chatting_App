@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813629714019",
+    "project_id": "poker-78ded",
+    "storage_bucket": "poker-78ded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813629714019:android:74ca51e4dde8482872d256",
+        "android_client_info": {
+          "package_name": "com.example.pocker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2qH7rK2Tsz45fszPBUIe3bcmItiJsb6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
